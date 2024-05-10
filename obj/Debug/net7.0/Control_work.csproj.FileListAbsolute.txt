@@ -1,0 +1,14 @@
+D:\OneDrive\Рабочий стол\Control_work\bin\Debug\net7.0\Control_work.exe
+D:\OneDrive\Рабочий стол\Control_work\bin\Debug\net7.0\Control_work.deps.json
+D:\OneDrive\Рабочий стол\Control_work\bin\Debug\net7.0\Control_work.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Control_work\bin\Debug\net7.0\Control_work.dll
+D:\OneDrive\Рабочий стол\Control_work\bin\Debug\net7.0\Control_work.pdb
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\Control_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\Control_work.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\Control_work.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\Control_work.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\Control_work.dll
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\refint\Control_work.dll
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\Control_work.pdb
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\Control_work.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Control_work\obj\Debug\net7.0\ref\Control_work.dll
